@@ -1,0 +1,32 @@
+
+.haut{display: block;margin: 0 auto; width:150px;height:100px }
+.avatard{display: block;margin: 0 auto; width:150px;height:300px }
+
+.deux{display: block;margin: 0 auto; width:130px;height:100px }
+.text {display: block;margin: 0 auto;background: #fff; width:160px;z-index:7;color: #502233;font-size: 16px;font-weight:bold;font-family: Georgia, serif;
+text-decoration: none;text-align:center}
+
+.trois{display: block;margin: 0 auto; width:130px;height:70px }
+.bouton {display: block;margin: 0 auto;background: #fff; width:150px;text-align:center }
+
+.quatre{display: block;margin: 0 auto; width:130px;height:70px }
+.demande {display: block;margin: 0 auto;background: #fff; width:322px }
+img {display: block;margin: 0 auto;} 
+
+
+
+.texte{position: absolute;background: #fff; top: 390px; left: 6%;z-index:5;color: #402233;font-size: 14px;font-weight:normal;font-family: Georgia, serif;
+text-decoration: none;text-align:center}
+
+.connexion{position: absolute; top:-70px; left: 1%;z-index:6;width:100%;color:#332222;font-size: 16px}
+
+.ecran1 {position: absolute;background: #fff; top: 70px; left: 73%;z-index:5}
+
+.ecran3 {position: absolute;background: #fff; top: 610px; left: 83%;z-index:5}
+ 
+.ecran4 {position: absolute;background: #fff; top: 670px; left: 1%;z-index:5}
+   
+  a.Similaires:hover {border-top-color: #222222;background:#B4ABAA ;color: #fff}
+  a.Similaires:active {border-top-color: #63085d;background: #B4ABAA}
+  a.Similaires {display: block;margin: 0 auto;border: 1px solid #444444;background: #a30028;background: -moz-linear-gradient(bottom, #4E4645, #B4ABAA);padding-right:0%;
+  padding-left:0%;padding-top:2px;padding-bottom:2px;font-size: 16px;font-weight:normal;text-decoration: none;color: #fff}

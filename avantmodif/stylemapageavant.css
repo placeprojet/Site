@@ -1,0 +1,170 @@
+     
+     //couleur :  #104300, #18b314, #001043, #1428C3, #bbb4E8, #aaa4fe, #28A687, #28D181, #e17128, #ff8128, #220055
+    h1 {color:black; font-size:26pt; text-align:center;
+        font-family:arial,sans-serif}
+    h2 {color:#fff; font-size:18pt; text-align:center}
+    span.h {font-size:18pt;color:#e17128}
+    h3 {color:#e57329; padding-left:-15px;font-size:18pt; text-align:left}
+    .red {
+        background: red;
+        color: white;
+      }
+   
+.connexion{position: absolute; top: 15px; left: 85%;z-index:5;width:13%
+;color:#ff8350;font-size: 13px;font-weight:bold;font-family: Georgia, serif;font-style: italic;text-decoration: none}
+p.connexion{position: absolute;background: #b0302a ; top:25px; left:1%;z-index:5;padding-left:3%;width:100%
+;color: #fff;font-size: 12px;font-weight:normal;font-family: Georgia, serif;text-decoration: none;font-style: normal;text-align:left}   
+p.connexionn{position: absolute;background: #a03a39 ; top:25px; left:1%;z-index:5;padding-left:3%;width:70%
+;color: #fff;font-size: 12px;font-weight:normal;font-family: Georgia, serif;text-decoration: none;font-style: normal;text-align:center}
+      
+.navv{float:left;height:600px;margin-left:0%;width:13%;background: #ddd; background:linear-gradient(73deg, #ddd, #eee 100%)} 
+.nav ul{display:list-item} 
+.nav a{color:#111;padding-left:2%;font-size: 12px;font-weight:bold;font-family: Arial, serif;text-decoration: none} 
+.nav li{padding-left:10%;list-style-type:square;color:#e57329}   
+.navprojet{float:left;padding-top:10px;color:#c11118;font-size: 10px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:left}
+.navprojetimg {clear: both;padding-left:50%;padding-bottom:4px;width:40%;height:30px }
+navprojet a{color:#c11118;font-size: 10px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:left}
+
+.avatard{position: absolute;background: #fff; top: 70px; left: 16%;z-index:5
+;color: #000;font-size: 13px;font-weight:normal;font-family: Georgia, serif;text-decoration: none}
+
+.visiteur{position: absolute;background: #fff; top: 508px; left: 18%;z-index:5
+;color: #7128e1;font-size: 12px;font-weight:normal;font-family: Georgia, serif;text-decoration: none;text-align:center}
+.visiteurs{position: absolute;background: #fff; top: 550px; left: 19%;z-index:5
+;color: #7128e1;font-size: 10px;font-weight:normal;font-family: Georgia, serif;text-decoration: none;text-align:center}
+
+.photoi{position: absolute;background: #fff; top: 260px; left: 16%;z-index:5
+;color: #000;font-size: 13px;font-weight:normal;font-family: Georgia, serif;text-decoration: none}
+
+p.avatar{position: absolute;background: #fff; top:180px; left:16%;z-index:5;with:5%
+;color: #000;font-size: 12px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:center}
+ span.avatar{background: #fff; top:170px; left:16%;z-index:5;with:5%
+;color: #e17128;font-size: 13px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:center}
+.avat a{position: absolute;background: #b15118; -moz-transform: skewY(-25deg); top:255px; left: 13%;z-index:5;
+color: #fff;font-size: 16px;font-weight:normal;font-family: Georgia, serif;text-decoration: none}
+
+.demande {position: absolute;background: #b15118; -moz-transform: skewY(-25deg); top: 450px; left: 13%;z-index:5;
+color: #fff;font-size: 20px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+    
+.cote{float:right; margin-right:0%;padding-left:3%; vertical-align:top;  width:21%; margin-left:0%; background: #E8AFB4;
+ background:linear-gradient(173deg, #ccc, #ddd 77%);color:#e17128}
+.cote p,a,span{ padding-bottom:1px;color:#000; text-align:left;font-size: 11px;font-weight:bold
+;font-family: Georgia, serif;text-decoration: none}
+.cote ul,li{padding-left:0%;list-style-type:square;color:#e17128;font-size: 12px;font-weight:bold}   
+
+.carte{ clear: right;float:right;margin-right:2%;margin-top:40px; width:19% }   
+  
+.pied{background: #220055; background:linear-gradient(90deg, #444044, #666066 100%);color:#fff;valign:bottom}
+.pied p,a{ padding-bottom:1px;color:#fff;align:bottom; text-align:center;font-size: 12px;font-weight:bold;
+font-family: Arial, serif;text-decoration: none}
+  
+  
+ .sectionn{ position:relative;width:50%;margin-left:22%;height:800px;background:#fff}    
+.article{width:100%;margin-left:2%;height:250px}  
+     
+.photo {width:8%; float:left; margin-right:3%;text-vertical-align:middle}
+.photos {width:100%; padding-bottom:4px;height:70px}
+  
+.info {padding-left:1%;color: #000;font-size: 13px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+hr{width: 80%;border: 1px #e17128 dotted;}
+.lelocale {clear: both;display: inline-block;width:100%;margin-top:2px}
+.lelocal {clear: both;display: inline-block;width:35%;margin-top:2px}
+.lelocalc {display:inline-block;width:28%}
+.lelocald {display:inline-block;width:32%}
+.lelocals a,span{ color:#000; text-align:left;font-size: 11px;font-weight:bold
+;font-family: Georgia, serif;text-decoration: none}
+.lelocale p{padding-left:0%;line-height:5px;color:#c16118;font-size: 15px;font-weight:bold}   
+p.lelocals {padding-left:0%;line-height:5px;color:#e17128;font-size: 11px;font-weight:bold}   
+
+.projete {clear: both;display: inline-block;width:100%;margin-top:2px}
+.projet {clear: both;display: inline-block;width:35%;margin-top:2px}
+.projetd {display:inline-block;width:60%}
+.projets a,span{ color:#000; text-align:left;font-size: 11px;font-weight:bold
+;font-family: Georgia, serif;text-decoration: none}
+.projete p{padding-left:0%;line-height:5px;color:#913108;font-size: 15px;font-weight:bold}   
+p.projets {padding-left:0%;line-height:5px;color:#b15118;font-size: 11px;font-weight:bold} 
+ 
+.economiquee {clear: both;display: inline-block;width:100%;margin-top:2px}
+.economique {clear: both;display: inline-block;width:27%;margin-top:2px}
+.economiquec {display:inline-block;width:28%}
+.economiqued {display:inline-block;width:40%}
+.economiques a,span{ color:#000; text-align:left;font-size: 11px;font-weight:bold
+;font-family: Georgia, serif;text-decoration: none}
+.economiquee p{padding-left:0%;line-height:5px;color:#4118b1;font-size: 15px;font-weight:bold}   
+p.economiques {padding-left:0%;line-height:5px;color:#7128e1;font-size: 11px;font-weight:bold}   
+
+.box {visibility:visible;left:0px;top:30px;border:solid 0px #000;height:220px; padding-left:10px;background: none repeat scroll 0 0 #FFFFFF
+;color: #000;font-size: 13px;font-weight:normal;font-family: Georgia, serif;text-decoration: none;vertical-align:top}
+.boxe {margin-top:5px;left:0px;top:20px;border:solid 0px #000;height:220px; padding-left:0px; overflow : auto;background: none repeat scroll 0 0 #ffffff
+;color: #000;font-size: 13px;font-weight:normal;font-family: Georgia, serif;text-decoration: none;vertical-align:top}
+
+.box a{color: #000;font-size: 13px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+
+#cout{height:20px; color: #fff;font-size: 14px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:center}
+.cout{height:20px;background: #b15118; color: #fff;font-size: 14px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:left}
+span.tag {margin-right:1%;color: #fff;font-size: 14px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;width:20%;text-align:center}
+
+p.description{background: #fff; color: #d02222;font-size: 22px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:center}
+
+.tab{ width:100%; height:30px;padding-left:0.9%;vertical-align:top }
+.tab li{width:14.12%;float:left;list-style:none; margin-top:8px;height:30px;vertical-align:top}
+
+    .tab a{
+    
+    background-width:14.28%;
+   border-top: 0px solid #97ecf7;
+   background: #65d2d6;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e9c88), to(#65d2d6));
+   background: -webkit-linear-gradient(top, #3e9c88, #65d2d6);
+   background: -moz-linear-gradient(top, #3e889c, #d6d265);
+   background: -ms-linear-gradient(top, #3e9c88, #65d2d6);
+   background: -o-linear-gradient(top, #3e9c88, #65d2d6);
+   padding-top:7px;
+   padding-bottom:8px;
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 0px;
+   border-top-left-radius: 0px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;      
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: black;font-size: 13px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;vertical-align:top
+   }
+  a.Projet:hover {border-color: #442222;background:#C31428 ;color: #000}
+  a.Projet:active {border-color: #085d63;background: #C31428}
+  a.Projet {border: 1px solid #500000;background: #700018;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:31%;padding-left:31%;color: #fff}
+
+  a.Description:hover {border-color: #224422;background:#C31428 ;color: #000}
+  a.Description:active {border-color: #63085d;background: #C31428}
+  a.Description {border: 1px solid #500000;background: #107300;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:19%;padding-left:19%;color: #fff}
+  
+  a.Environnement:hover {border-color: #222244;background:#C31428 ;color: #000}
+  a.Environnement:active {border-color: #5d6308;background: #C31428}
+  a.Environnement {border: 1px solid #500000;background: #001053;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:6%;padding-left:3%;color: #fff}
+  
+  a.Profil:hover {border-color: #2277aa;background:#C31428 ;color: #000}
+  a.Profil:active {border-color: #63085d;background: #C31428}
+  a.Profil {border: 1px solid #000050;background: #a30028;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:34%;padding-left:34%;color: #fff}
+  
+  a.Contact:hover {border-color: #222277;background:#C31428 ;color: #000}
+  a.Contact:active {border-color: #63085d;background: #C31428}
+  a.Contact {border: 1px solid #500000;background: #a30028;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:27%;padding-left:27%;color: #fff}
+    
+  a.Culture:hover {border-color: #227722;background:#C31428 ;color: #000}
+  a.Culture:active {border-color: #63085d;background: #C31428}
+  a.Culture {border: 1px solid #005000;background: #a30028;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:29%;padding-left:29%;color: #fff}
+  
+  a.Similaires:hover {border-top-color: #222222;background:#C31428 ;color: #000}
+  a.Similaires:active {border-top-color: #63085d;background: #C31428}
+  a.Similaires {border: 1px solid #444444;background: #a30028;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:19%;padding-left:20%;color: #fff}
+.lienss {display:inline-block;width:100%}  
+.liens ul{display:list-item} 
+.liens a{color:#111;font-size: 12px;font-weight:bold;font-family: Arial, serif;text-decoration: none} 
+.liens li{display: inline-block;margin-left:2%;list-style-type:square;color:#e57329;font-size: 12px}   
+
+.discussions{width:100%}
+.message {width:100%}  
+.aireecriture textarea{width:90%}  
+
+
+

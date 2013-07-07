@@ -1,0 +1,138 @@
+     //couleur :  #104300, #18b314, #001043, #1428C3, #bbb4E8, #aaa4fe, #28A687, #28D181, #e17128, #ff8128, #220055
+    h1 {color:black; font-size:26pt; text-align:center;
+        font-family:arial,sans-serif}
+    h2 {color:#fff; font-size:18pt; text-align:center}
+    h3 {color:#e57329; padding-left:-15px;font-size:18pt; text-align:left}
+    .red {
+        background: red;
+        color: white;
+      }
+.connexion{position: absolute; top: 15px; left: 85%;z-index:5;width:13%
+;color:#ff8350;font-size: 13px;font-weight:bold;font-family: Georgia, serif;font-style: italic;text-decoration: none}
+p.connexion{position: absolute;background: #b0302a ; top:25px; left:1%;z-index:5;padding-left:3%;width:100%
+;color: #fff;font-size: 12px;font-weight:normal;font-family: Georgia, serif;text-decoration: none;font-style: normal;text-align:left}   
+p.connexionn{position: absolute;background: #a03a39 ; top:25px; left:1%;z-index:5;padding-left:3%;width:70%
+;color: #fff;font-size: 12px;font-weight:normal;font-family: Georgia, serif;text-decoration: none;font-style: normal;text-align:center}
+       
+.navv{float:left;height:600px;margin-left:0%;width:13%;background: #ddd; background:linear-gradient(73deg, #ddd, #eee 100%)} 
+.nav ul{display:list-item} 
+.nav a{color:#111;padding-left:2%;font-size: 12px;font-weight:bold;font-family: Arial, serif;text-decoration: none} 
+.nav li{padding-left:5%;list-style-type:square;color:#e57329}   
+     
+.cote{float:right; margin-right:0%;padding-left:5%; vertical-align:top;  width:19%; margin-left:1%; background: #E8AFB4;
+ background:linear-gradient(173deg, #ccc, #ddd 77%);color:#e17128}.cote{float:right; margin-right:0%;padding-left:3%; vertical-align:top;  width:21%; margin-left:0%; background: #E8AFB4;
+ background:linear-gradient(173deg, #ccc, #ddd 77%);color:#e17128}
+span.cotes { padding-bottom:1px;color:#000; text-align:left;font-size: 11px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+.cote ul,li{padding-left:0%;list-style-type:square;color:#e17128;font-size: 12px;font-weight:bold}   
+.cote  p,a{ padding-bottom:1px;color:#000; text-align:left;font-size: 11px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+.pied{background: #220055; background:linear-gradient(90deg, #444044, #666066 100%);color:#fff;valign:bottom}
+.pied p,a{ padding-bottom:1px;color:#fff;align:bottom; text-align:center;font-size: 12px;font-weight:bold;
+font-family: Arial, serif;text-decoration: none}
+    
+.photo {float:left;margin-left:0%;text-vertical-align:middle;width:13%}
+    
+.sectionn{width:100%;margin-left:1%;height:250px}   
+.article{ position:relative;width:53%;margin-left:19%;height:250px;background:#fff}   
+
+.tab{ width:100%; height:30px;padding-left:0.9%;vertical-align:top }
+.tab li{width:14.12%;float:left;list-style:none; margin-top:8px;height:30px;vertical-align:top}
+.tab a{background-width:14.28%;border-top: 0px solid #97ecf7;background: #65d2d6;background: -webkit-gradient(linear, left top, left bottom, from(#3e9c88), to(#65d2d6));
+   background: -webkit-linear-gradient(top, #3e9c88, #65d2d6);background: -moz-linear-gradient(top, #3e889c, #d6d265);background: -ms-linear-gradient(top, #3e9c88, #65d2d6);
+   background: -o-linear-gradient(top, #3e9c88, #65d2d6);padding-top:7px;padding-bottom:8px;-webkit-border-radius: 0px;-moz-border-radius: 0px;
+   border-top-left-radius: 0px;-webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;-moz-box-shadow: rgba(0,0,0,1) 0 1px 0;box-shadow: rgba(0,0,0,1) 0 1px 0;      
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;color: black;font-size: 13px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;vertical-align:top}
+ 
+  span.number{color: #000;font-size: 11px;font-weight:italic;font-family: Georgia, serif;text-decoration: none;text-align:left}
+   
+  a.Projet:hover {border-color: #442222;background:#C31428 ;color: #000}
+  a.Projet:active {border-color: #085d63;background: #C31428}
+  a.Projet {border: 1px solid #500000;background: #700018;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:31%;padding-left:31%;color: #fff}
+  
+  img.photoproje {float:left;margin-left:3%;margin-top:10px;margin-right:3%;height:60px;vertical-align:top}
+  img.photouse {float:left;margin-top:10px;margin-left:1%;margin-right:1%;height:80px}
+  img.photouser {float:left;margin-top:5px;margin-left:1%;margin-right:1%;height:80px}
+  img.photoprojet {float:left;margin-left:1%;margin-right:1%;height:60px}
+  p.projet {padding-left:0%;line-height:1px;color:#7128e1;font-size: 12px;font-weight:bold}
+.cout  li{padding-left:1%;line-height:2px;list-style-type:square;color:#C31428} 
+.cout{background: #fff; color: #000;font-size: 12px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:left}
+span.crearep {border-color: #444044;height:20px;margin-left:1%;margin-right:1%;background:linear-gradient(73deg,#444044, #666066 100%);color:
+ #fff;font-size: 14px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;width:6%;text-align:center}
+ 
+.info{height:65px;background: #fff; color: #000;font-size: 12px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:left}
+.infos{height:85px;background: #fff; color: #000;font-size: 12px;font-weight:bold;font-family: Georgia, serif;text-decoration: none;text-align:left}
+.lelocale {display: inline-block;width:25%;margin-top:0px}
+span.lelocals { color:#000; text-align:left;font-size: 11px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+img.photolelocal {margin-left:1%;margin-right:1%;margin-top:10px;height:60px}
+.lelocal {clear: both;display: inline-block;width:100%;margin-top:0px}
+.lelocale p{padding-left:0%;line-height:2px;color:#d16118;font-size: 13px;font-weight:bold}   
+p.lelocals {padding-left:0%;line-height:2px;color:#e17128;font-size: 11px;font-weight:bold}   
+
+ .economiquee {clear: both;display: inline-block;width:35%;margin-top:2px}
+.economiquec {clear: both;display:inline-block;width:100%}
+span.economiques { color:#000; text-align:left;font-size: 11px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+.economiquee p{padding-left:0%;line-height:2px;color:#6118d1;font-size: 13px;font-weight:bold}   
+p.economiques {padding-left:0%;line-height:2px;color:#7128e1;font-size: 11px;font-weight:bold}   
+ 
+.rojete {clear: both;display: inline-block;width:35%;margin-top:2px}
+.rojet {clear: both;display: inline-block;width:35%;margin-top:2px}
+.rojetd {clear: both;display:inline-block;width:100%}
+span.rojets { color:#000; text-align:left;font-size: 11px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+.rojete p{padding-left:0%;line-height:2px;color:#a13108;font-size: 13px;font-weight:bold}   
+p.rojets {padding-left:0%;line-height:2px;color:#b15118;font-size: 11px;font-weight:bold} 
+
+.persoe{clear: both;width:95%}
+p.perso {padding-left:0%;line-height:10px;color:#C31428;font-size: 11px;font-weight:bold} 
+li.perso  {clear: both;padding-left:1%;line-height:15px;list-style-type:square;color:#C31428;width:100% } 
+li.persod {padding-left:1%;line-height:15px;list-style-type:square;color:#C31428;width:100%} 
+.perso{clear: both;display: inline-block;width:55%;margin-top:0px;background: #fff; color: #000;font-size: 12px;font-weight:bold;font-family: Georgia, serif;
+text-decoration: none;text-align:left}
+.persod{clear: both;display: inline-block;width:40%;margin-top:0px;background: #fff; color: #000;font-size: 12px;font-weight:bold;font-family: Georgia, serif;
+text-decoration: none;text-align:left}
+ 
+ .privee {clear: both;display: inline-block;width:100%;margin-top:2px}
+.prive {display: inline-block;width:27%;margin-top:2px}
+.privec {display:inline-block;width:28%}
+.prived {display:inline-block;width:40%}
+span.prives { color:#000; text-align:left;font-size: 12px;font-weight:bold
+;font-family: Georgia, serif;text-decoration: none}
+.privee p{padding-left:0%;line-height:5px;color:#C31428;font-size: 14px;font-weight:bold}   
+p.prives {padding-left:0%;line-height:5px;color:#C31428;font-size: 12px;font-weight:bold} 
+ 
+ .cultuee {clear: both;display: inline-block;width:100%;margin-top:2px}
+.cultue {clear: both;display: inline-block;width:35%;margin-top:2px}
+.cultued {display:inline-block;width:60%}
+span.cultues { color:#000; text-align:left;font-size: 12px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+.cultuee p{padding-left:0%;line-height:5px;color:#a13108;font-size: 14px;font-weight:bold}   
+p.cultues {padding-left:0%;line-height:5px;color:#b15118;font-size: 12px;font-weight:bold} 
+ 
+  
+  a.Description:hover {border-color: #224422;background:#C31428 ;color: #000}
+  a.Description:active {border-color: #63085d;background: #C31428}
+  a.Description {border: 1px solid #500000;background: #107300;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:19%;padding-left:19%;color: #fff}
+  
+  a.Environnement:hover {border-color: #222244;background:#C31428 ;color: #000}
+  a.Environnement:active {border-color: #5d6308;background: #C31428}
+  a.Environnement {border: 1px solid #500000;background: #001053;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:6%;padding-left:3%;color: #fff}
+  
+  a.Profil:hover {border-color: #2277aa;background:#C31428 ;color: #000}
+  a.Profil:active {border-color: #63085d;background: #C31428}
+  a.Profil {border: 1px solid #000050;background: #a30028;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:34%;padding-left:34%;color: #fff}
+  
+  a.Contact:hover {border-color: #222277;background:#C31428 ;color: #000}
+  a.Contact:active {border-color: #63085d;background: #C31428}
+  a.Contact {border: 1px solid #500000;background: #a30028;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:27%;padding-left:27%;color: #fff}
+    
+  a.Culture:hover {border-color: #227722;background:#C31428 ;color: #000}
+  a.Culture:active {border-color: #63085d;background: #C31428}
+  a.Culture {border: 1px solid #005000;background: #a30028;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:29%;padding-left:29%;color: #fff}
+  
+  a.Similaires:hover {border-top-color: #222222;background:#C31428 ;color: #000}
+  a.Similaires:active {border-top-color: #63085d;background: #C31428}
+  a.Similaires {border: 1px solid #444444;background: #a30028;background: -moz-linear-gradient(bottom, #700018, #C31428);padding-right:19%;padding-left:20%;color: #fff}
+  
+.box {position:absolute;visibility:hidden;left:0px;top:30px;border:solid 1px #000;height:220px; padding-left:10px;background: none repeat scroll 0 0 #FFFFFF}
+.boxe {position:absolute;visibility:hidden;left:0px;top:30px;border:solid 1px #000;height:220px; padding-left:10px;background: none repeat scroll 0 0 #ffffff}
+.boxon {position:absolute;left:1%;width:97%;top:36px;border:solid 1px #000;border-top:solid 0px #000;height:214px; padding-left:1.5%;background:#fff;
+color: #000;font-size: 13px;font-weight:normal;font-family: Georgia, serif;text-decoration: none;vertical-align:top}
+.boxon a{color: #000;font-size: 13px;font-weight:bold;font-family: Georgia, serif;text-decoration: none}
+
