@@ -1,0 +1,18 @@
+/*CSS */
+/*HEADER */
+/* line 4, ../sass/base.sass */
+#main_menu {
+  display: inline-block;
+  text-align: left;
+}
+
+/* line 8, ../sass/base.sass */
+#main_menu ul {
+  list-style-type: none;
+}
+
+/* line 11, ../sass/base.sass */
+#main_menu li {
+  display: inline-block;
+  margin-right: 15px;
+}
